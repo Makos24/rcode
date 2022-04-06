@@ -1436,17 +1436,17 @@ if($term == 3){
                         <td width=\"110px\"><strong>1st TERM POSITION:</strong></td>
                         <td class=\"underline\" width=\"60px\" >";
                         if($p1)
-                            $content .= '';
+                            $content .= "";
                     $content.="</td>
                         <td width=\"70px\"><strong>2nd TERM:</strong></td>
                         <td class=\"underline\" width=\"70px\" >";
                         if($p2)
-                            $content .= '';
+                            $content .= "";
                     $content.="</td>
                         <td width=\"70px\"><strong>3rd TERM:</strong></td>
                         <td class=\"underline\" width=\"60px\" >";
                     if($p3)
-                        $content .= '';
+                        $content .= "";
                     $content.="</td>
                         <td width=\"110px\"><strong>ANNUAL POSITION:</strong></td>
                         <td class=\"underline\" width=\"190px\" >";
